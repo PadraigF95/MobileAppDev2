@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tourism</string>
+    <string name="registerTitle">Register</string>
+    <string name="registerEmail">Email Address</string>
+    <string name="registerPassword">Password</string>
+    <string name="registerUsername">Username</string>
+    <string name="btnRegister">Register</string>
+    <string name="btnLogin">Login</string>
+    <string name="loginTitle">Login</string>
+    <string name="loginPassword">Password</string>
+    <string name="loginForgot">Forgot Password?</string>
+
+
+</resources>
